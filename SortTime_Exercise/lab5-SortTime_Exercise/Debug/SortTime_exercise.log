@@ -1,0 +1,6 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  timesort.cpp
+  sort.h
+  Generating Code...
+sort.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  SortTime_exercise.vcxproj -> C:\Users\User1\Desktop\SortTime_Exercise\lab5-SortTime_Exercise\Debug\SortTime_exercise.exe

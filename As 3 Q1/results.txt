@@ -1,0 +1,7 @@
+Class Boxes
+1		6
+2		20
+3		23
+4		6
+10		16
+Winning class(s) id is: 3 
