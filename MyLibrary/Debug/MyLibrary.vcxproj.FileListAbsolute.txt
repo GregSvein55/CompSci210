@@ -1,2 +1,0 @@
-C:\Users\User1\Desktop\MyLibrary\Debug\MyLibrary.lib
-C:\Users\User1\Desktop\MyLibrary\Debug\MyLibrary.pdb
