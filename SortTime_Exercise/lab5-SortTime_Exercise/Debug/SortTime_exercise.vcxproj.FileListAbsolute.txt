@@ -1,2 +1,0 @@
-C:\Users\User1\Desktop\SortTime_Exercise\lab5-SortTime_Exercise\Debug\SortTime_exercise.exe
-C:\Users\User1\Desktop\SortTime_Exercise\lab5-SortTime_Exercise\Debug\SortTime_exercise.pdb
