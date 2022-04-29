@@ -6,8 +6,6 @@ Linked Lists and Visual C++
 Operator Overloading
 ## Lab 3
 Tepmlates
-## Lab 4
-Computational Complexity and Performance Measurement
 ## Lab 5 
 Recursion
 ## Lab 6 
